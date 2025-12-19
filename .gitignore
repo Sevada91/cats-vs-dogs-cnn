@@ -1,0 +1,22 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+
+# ===== Notebooks =====
+.ipynb_checkpoints/
+
+# ===== Data & Outputs =====
+datasets/
+reports/
+*.pt
+*.pth
+*.ckpt
+
+# ===== Environments =====
+venv/
+.env
+
+# ===== OS / Editors =====
+.DS_Store
+.vscode/
+runs/
